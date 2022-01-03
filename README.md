@@ -17,17 +17,17 @@ Também foi criado um teste A/B simples (a versão original traz imagens na pág
 - versão original
 
 <div align="center">
-  <img  width='350' src='https://user-images.githubusercontent.com/45580434/147932643-6783dd68-d4be-4e3d-beb6-f0ac56ba13a7.png' alt="versão original">
+  <img  width='450' src='https://user-images.githubusercontent.com/45580434/147932643-6783dd68-d4be-4e3d-beb6-f0ac56ba13a7.png' alt="versão original">
 </div>
 
 - variante 1
 
 <div align="center">
-  <img  width='350' src='https://user-images.githubusercontent.com/45580434/147932683-4a1d965d-46cd-4035-96a9-7df51e1e747c.png' alt="versão original">
+  <img  width='450' src='https://user-images.githubusercontent.com/45580434/147932683-4a1d965d-46cd-4035-96a9-7df51e1e747c.png' alt="versão original">
 </div>
 
 Com base nos relatórios do teste A/B a versão original é mais efetiva.
 
 <div align="center">
-  <img  width='500' src='https://user-images.githubusercontent.com/45580434/147933074-2e8f8be0-ea65-43ac-a5da-522f58ee37d7.png' alt="relatório">
+  <img  src='https://user-images.githubusercontent.com/45580434/147933074-2e8f8be0-ea65-43ac-a5da-522f58ee37d7.png' alt="relatório">
 </div>
